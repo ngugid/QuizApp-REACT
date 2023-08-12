@@ -114,7 +114,7 @@ export default function App() {
   const restartGame = () => {
     setScore(0);
     setCurrentQuestion(0);
-    setShowResults(false);
+    setShowScore(false);
   };
 
   
